@@ -1,0 +1,71 @@
+﻿  Bishop.cpp
+  Board.cpp
+D:\Programowanie\C++\chess\chess\chess\Board.cpp(365,21): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+D:\Programowanie\C++\chess\chess\chess\Board.cpp(97,127): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Programowanie\C++\chess\chess\chess\Board.cpp(230): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void Board::set<Pieces>(Y *)” funkcji szablon
+          with
+          [
+              Y=Pieces
+          ]
+D:\Programowanie\C++\chess\chess\chess\Board.cpp(97,82): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Game.cpp
+D:\Programowanie\C++\chess\chess\chess\Game.cpp(723,124): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Programowanie\C++\chess\chess\chess\Game.cpp(770): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void Game::pro<Queen>(P *&,int)” funkcji szablon
+          with
+          [
+              P=Queen
+          ]
+D:\Programowanie\C++\chess\chess\chess\Game.cpp(723,80): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  King.cpp
+  Knight.cpp
+  main.cpp
+D:\Programowanie\C++\chess\chess\chess\main.cpp(57,35): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  MainMenu.cpp
+  Pawn.cpp
+  Pieces.cpp
+  HisMov.cpp
+D:\Programowanie\C++\chess\chess\chess\HisMov.cpp(6,32): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Programowanie\C++\chess\chess\chess\HisMov.cpp(7,32): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Queen.cpp
+  Rook.cpp
+  Square.cpp
+  Textbox.cpp
+  Trwa generowanie kodu
+D:\Programowanie\C++\chess\chess\chess\King.cpp(133): warning C4715: "King::isCheck”: niewszystkie ścieżki kodu zwracają wartość
+  679 of 748 functions (90.8%) were compiled, the rest were copied from previous compilation.
+    400 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  chess.vcxproj -> D:\Programowanie\C++\chess\chess\x64\Release\chess.exe
